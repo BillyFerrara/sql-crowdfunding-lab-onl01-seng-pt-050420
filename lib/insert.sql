@@ -13,8 +13,8 @@ VALUES ("Hunt War Criminals for Sport", "Vacation", 7777777777, 4/30/45, 4/30/46
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Bears...", "Animals", 7, 6/17/99, 9/23/23);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-VALUES ("Kame House Training", "Training", 2/26/86, 12/31/20);
+VALUES ("Kame House Training", "Fitness", 85555 , 2/26/86, 12/31/20);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ("Need Coffee", );
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ();
