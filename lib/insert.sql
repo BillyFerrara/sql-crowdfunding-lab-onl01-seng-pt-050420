@@ -27,4 +27,3 @@ INSERT INTO users (name, age) VALUES
 ("Jesus", 33)
 ("Hanz", 17)
 ("JJ", 22)
-
