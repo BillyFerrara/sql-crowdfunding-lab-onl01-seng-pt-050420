@@ -15,6 +15,6 @@ VALUES ("Bears...", "Animals", 7, 6/17/99, 9/23/23);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Kame House Training", "Fitness", 85555 , 2/26/86, 12/31/20);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-VALUES ("Need Coffee", );
+VALUES ("Need Coffee", "Energy", 99999, 1/1/00, 12/31/99);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ();
