@@ -19,43 +19,43 @@ VALUES ("Need Coffee", "Energy", 99999, 1/1/00, 12/31/99);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Banana Gram", "Messaging", 200000, 7/8/19, 9/9/20);
 
-INSERT INTO users (name, age) VALUES
-("Billy", 27);
-INSERT INTO users (name, age) VALUES
-("Alyssa", 29);
-INSERT INTO users (name, age) VALUES
-("Johnny", 10);
-INSERT INTO users (name, age) VALUES
-("Joe", 8);
-INSERT INTO users (name, age) VALUES
-("James", 4);
-INSERT INTO users (name, age) VALUES
-("Goku", 31);
-INSERT INTO users (name, age) VALUES
-("Jesus", 33);
-INSERT INTO users (name, age) VALUES
-("Hanz", 17);
-INSERT INTO users (name, age) VALUES
-("JJ", 22);
-INSERT INTO users (name, age) VALUES
-("Hamza", 24);
-INSERT INTO users (name, age) VALUES
-("Rose", 70);
-INSERT INTO users (name, age) VALUES
-("Willy", 70);
-INSERT INTO users (name, age) VALUES
-("Ben", 45);
-INSERT INTO users (name, age) VALUES
-("Carly", 43);
-INSERT INTO users (name, age) VALUES
-("Seymore", 19);
-INSERT INTO users (name, age) VALUES
-("Rex", 99);
-INSERT INTO users (name, age) VALUES
-("Broly", 33);
-INSERT INTO users (name, age) VALUES
-("Sam", 56);
-INSERT INTO users (name, age) VALUES
-("Ted", 44);
-INSERT INTO users (name, age) VALUES
-("Sarah", 22);
+INSERT INTO users (name, age)
+VALUES ("Billy", 27);
+INSERT INTO users (name, age)
+VALUES ("Alyssa", 29);
+INSERT INTO users (name, age)
+VALUES ("Johnny", 10);
+INSERT INTO users (name, age)
+VALUES ("Joe", 8);
+INSERT INTO users (name, age)
+VALUES ("James", 4);
+INSERT INTO users (name, age)
+VALUES ("Goku", 31);
+INSERT INTO users (name, age)
+VALUES ("Jesus", 33);
+INSERT INTO users (name, age)
+VALUES ("Hanz", 17);
+INSERT INTO users (name, age)
+VALUES ("JJ", 22);
+INSERT INTO users (name, age)
+VALUES ("Hamza", 24);
+INSERT INTO users (name, age)
+VALUES ("Rose", 70);
+INSERT INTO users (name, age)
+VALUES ("Willy", 70);
+INSERT INTO users (name, age)
+VALUES ("Ben", 45);
+INSERT INTO users (name, age)
+VALUES ("Carly", 43);
+INSERT INTO users (name, age)
+VALUES ("Seymore", 19);
+INSERT INTO users (name, age)
+VALUES ("Rex", 99);
+INSERT INTO users (name, age)
+VALUES ("Broly", 33);
+INSERT INTO users (name, age)
+VALUES ("Sam", 56);
+INSERT INTO users (name, age)
+VALUES ("Ted", 44);
+INSERT INTO users (name, age)
+VALUES ("Sarah", 22);
