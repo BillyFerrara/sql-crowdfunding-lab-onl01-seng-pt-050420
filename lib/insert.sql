@@ -11,7 +11,7 @@ VALUES ("Batman inc", "Public Safety", 999999999, 3/17/37, 12/31/99);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Hunt War Criminals for Sport", "Vacation", 7777777777, 4/30/45, 4/30/46);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-VALUES ("Bears...", "Animals", );
+VALUES ("Bears...", "Animals", 7, 6/17/99, 9/23/23);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ();
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
