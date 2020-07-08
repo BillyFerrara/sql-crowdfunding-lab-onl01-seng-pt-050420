@@ -25,19 +25,19 @@ VALUES (10, "Banana Gram", "Messaging", 200000, 7/8/19, 9/9/20);
 
 INSERT INTO users (id, name, age)
 VALUES ("Billy", 27);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Alyssa", 29);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Johnny", 10);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Joe", 8);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("James", 4);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Goku", 31);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Jesus", 33);
-INSERT INTO users (name, age)
+INSERT INTO users (id, name, age)
 VALUES ("Hanz", 17);
 INSERT INTO users (name, age)
 VALUES ("JJ", 22);
