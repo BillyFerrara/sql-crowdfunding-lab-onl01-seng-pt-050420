@@ -18,3 +18,13 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Need Coffee", "Energy", 99999, 1/1/00, 12/31/99);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Banana Gram", "Messaging", 200000, 7/8/19, 9/9/20);
+
+INSERT INTO users (name, age) VALUES
+("Billy", 27)
+("Alyssa", 29)
+("James", 4)
+("Goku", 31)
+("Jesus", 33)
+("Hanz", 17)
+("JJ", 22)
+
