@@ -1,4 +1,4 @@
-# PROJECTS
+
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (1, "Chicken FBI", "Surveillance", 1000000, 1/1/17, 12/31/22);
@@ -21,7 +21,6 @@ VALUES (9, "Need Coffee", "Energy", 99999, 1/1/00, 12/31/99);
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date)
 VALUES (10, "Banana Gram", "Messaging", 200000, 7/8/19, 9/9/20);
 
-# USERS
 
 INSERT INTO users (id, name, age)
 VALUES (1, "Billy", 27);
@@ -64,7 +63,7 @@ VALUES (19, "Ted", 44);
 INSERT INTO users (id, name, age)
 VALUES (20, "Sarah", 22);
 
-# PLEDGES
+
 INSERT INTO pledges (amount, user_id, project_id) VALUES
 (10.00, 1, 2),
 (20.00, 1, 3),
