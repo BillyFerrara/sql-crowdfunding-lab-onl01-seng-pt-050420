@@ -24,45 +24,45 @@ VALUES (10, "Banana Gram", "Messaging", 200000, 7/8/19, 9/9/20);
 # USERS
 
 INSERT INTO users (id, name, age)
-VALUES ("Billy", 27);
+VALUES (1, "Billy", 27);
 INSERT INTO users (id, name, age)
-VALUES ("Alyssa", 29);
+VALUES (2, "Alyssa", 29);
 INSERT INTO users (id, name, age)
-VALUES ("Johnny", 10);
+VALUES (3, "Johnny", 10);
 INSERT INTO users (id, name, age)
-VALUES ("Joe", 8);
+VALUES (4, "Joe", 8);
 INSERT INTO users (id, name, age)
-VALUES ("James", 4);
+VALUES (5, "James", 4);
 INSERT INTO users (id, name, age)
-VALUES ("Goku", 31);
+VALUES (6, "Goku", 31);
 INSERT INTO users (id, name, age)
-VALUES ("Jesus", 33);
+VALUES (7, "Jesus", 33);
 INSERT INTO users (id, name, age)
-VALUES ("Hanz", 17);
-INSERT INTO users (name, age)
-VALUES ("JJ", 22);
-INSERT INTO users (name, age)
-VALUES ("Hamza", 24);
-INSERT INTO users (name, age)
-VALUES ("Rose", 70);
-INSERT INTO users (name, age)
-VALUES ("Willy", 70);
-INSERT INTO users (name, age)
-VALUES ("Ben", 45);
-INSERT INTO users (name, age)
-VALUES ("Carly", 43);
-INSERT INTO users (name, age)
-VALUES ("Seymore", 19);
-INSERT INTO users (name, age)
-VALUES ("Rex", 99);
-INSERT INTO users (name, age)
-VALUES ("Broly", 33);
-INSERT INTO users (name, age)
-VALUES ("Sam", 56);
-INSERT INTO users (name, age)
-VALUES ("Ted", 44);
-INSERT INTO users (name, age)
-VALUES ("Sarah", 22);
+VALUES (8, "Hanz", 17);
+INSERT INTO users (id, name, age)
+VALUES (9, "JJ", 22);
+INSERT INTO users (id, name, age)
+VALUES (10, "Hamza", 24);
+INSERT INTO users (id, name, age)
+VALUES (11, "Rose", 70);
+INSERT INTO users (id, name, age)
+VALUES (12, "Willy", 70);
+INSERT INTO users (id, name, age)
+VALUES (13, "Ben", 45);
+INSERT INTO users (id, name, age)
+VALUES (14, "Carly", 43);
+INSERT INTO users (id, name, age)
+VALUES (15, "Seymore", 19);
+INSERT INTO users (id, name, age)
+VALUES (16, "Rex", 99);
+INSERT INTO users (id, name, age)
+VALUES (17, "Broly", 33);
+INSERT INTO users (id, name, age)
+VALUES (18, "Sam", 56);
+INSERT INTO users (id, name, age)
+VALUES (19, "Ted", 44);
+INSERT INTO users (id, name, age)
+VALUES (20, "Sarah", 22);
 
 # PLEDGES
 INSERT INTO pledges (amount, user_id, project_id) VALUES
