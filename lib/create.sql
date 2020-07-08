@@ -1,2 +1,2 @@
-"create table projects ( id INTEGER PRIMARY KEY,
-);"
+create table projects (id INTEGER PRIMARY KEY,
+);
